@@ -1,0 +1,1 @@
+alert("Você acessou a página sobre os lados que podemos seguir em nosso projeto.")

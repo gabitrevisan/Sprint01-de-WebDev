@@ -1,0 +1,1 @@
+alert("Você acessou a página sobre o tema.")
